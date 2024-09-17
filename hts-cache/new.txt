@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:27:46	3435/3435	---MCZ	200	added ('OK')	text/html	date:Tue,%2017%20Sep%202024%2021:57:46%20GMT	https://tools.smithii.io/launch/SONSTA	C:/My%20Web%20Sites/TOKENPRES/tools.smithii.io/launch/SONSTA.html	(from )
+03:27:46	1473/1473	---MCZ	200	added ('OK')	text/html	date:Tue,%2017%20Sep%202024%2021:57:47%20GMT	https://tools.smithii.io/robots.txt		(from )
+03:27:46	1555/1555	---M--	400	error ('Bad%20Request')	text/html	date:Tue,%2017%20Sep%202024%2021:57:47%20GMT	https://www.googletagmanager.com/gtm.js?id=	C:/My%20Web%20Sites/TOKENPRES/www.googletagmanager.com/gtm.15445.delayed	(from https://tools.smithii.io/launch/SONSTA)
+03:27:47	44207/44207	---MCZ	200	added ('OK')	text/css	etag:W/%225db0dc723002e1df42538df403d72382%22	https://tools.smithii.io/assets/index-BRHbg4NA.css	C:/My%20Web%20Sites/TOKENPRES/tools.smithii.io/assets/index-BRHbg4NA.css	(from https://tools.smithii.io/launch/SONSTA)
+03:27:47	7569534/7569534	---MCZ	200	added ('OK')	application/javascript	etag:W/%22fbe464eb30d1da2a267cad5d702dfbb0%22	https://tools.smithii.io/assets/index-B5r8qAuO.js	C:/My%20Web%20Sites/TOKENPRES/tools.smithii.io/assets/index-B5r8qAuO.js	(from https://tools.smithii.io/launch/SONSTA)
